@@ -7,7 +7,6 @@ if(confirm('Sure ?')){
 }
 */
 
-
 val = window.outerHeight;
 val = window.outerWidth;
 val = window.innerHeight;
